@@ -5,11 +5,11 @@ export default defineNuxtConfig({
       script: [
         {
           type: "text/javascript",
-          src: "usmap.js",
+          src: "mapdata.js",
         },
         {
           type: "text/javascript",
-          src: "mapdata.js",
+          src: "usmap.js",
         },
       ],
     },
