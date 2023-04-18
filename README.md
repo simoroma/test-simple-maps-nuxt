@@ -1,3 +1,8 @@
+
+# Simple maps with Nuxt
+
+Here we adapted this https://simplemaps.com/docs/vue3-install tutorial that uses Vue 3 to use Nuxt 3.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
